@@ -611,12 +611,48 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Name",
+          "name": "Sim.Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Library",
+          "name": "Sim.Library",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -661,7 +697,7 @@
         "uuid": "964edaf9-a802-406a-a721-43cc39556196"
       }
     ],
-    "used_designators": "#PWR1-3,R1-2,U1",
+    "used_designators": "J1-2,A1,#PWR1-48,R1-32,U1-16",
     "variants": []
   },
   "sheets": [
@@ -672,6 +708,66 @@
     [
       "0989161f-d6b1-4f30-9ed6-66c58798253a",
       "non-inverting-amplifier"
+    ],
+    [
+      "0105888b-04f4-48e0-9da0-0f190b7a3f8b",
+      "non-inverting-amplifier1"
+    ],
+    [
+      "352996f5-3e32-4ae5-b456-727e099917ff",
+      "non-inverting-amplifier2"
+    ],
+    [
+      "871f6913-254d-4561-a3b1-c0956c7e8ddb",
+      "non-inverting-amplifier3"
+    ],
+    [
+      "e8bd14be-c01e-4fe1-a600-a0e9f3264572",
+      "non-inverting-amplifier4"
+    ],
+    [
+      "96bd0b26-6175-49f9-890b-e41813ad0878",
+      "non-inverting-amplifier5"
+    ],
+    [
+      "36dd61aa-704c-49ed-8a06-a681d9e5c048",
+      "non-inverting-amplifier6"
+    ],
+    [
+      "4e0af2d1-c7b5-444b-936b-fc4832b518ef",
+      "non-inverting-amplifier7"
+    ],
+    [
+      "5122801d-1322-4e75-a127-70b96e75eece",
+      "non-inverting-amplifier8"
+    ],
+    [
+      "f71914b2-f372-4188-ba4f-a36b1ed10e5a",
+      "non-inverting-amplifier9"
+    ],
+    [
+      "3aecd06d-6137-4793-83bd-0c00488c50cf",
+      "non-inverting-amplifier10"
+    ],
+    [
+      "578d1680-18f8-4cee-8138-360526254699",
+      "non-inverting-amplifier11"
+    ],
+    [
+      "4c3c8ac1-e418-4627-81b0-2ef893f2f92b",
+      "non-inverting-amplifier12"
+    ],
+    [
+      "34846904-7b0c-48e1-a76a-cc1870703019",
+      "non-inverting-amplifier13"
+    ],
+    [
+      "71f2b99c-327f-4789-b3b6-6c84e9e7d415",
+      "non-inverting-amplifier14"
+    ],
+    [
+      "66ae1587-3430-4b25-9223-a7cc42a95ccb",
+      "non-inverting-amplifier15"
     ]
   ],
   "text_variables": {},
