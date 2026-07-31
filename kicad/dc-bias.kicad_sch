@@ -1,0 +1,66 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "964edaf9-a802-406a-a721-43cc39556196")
+	(paper "USLetter")
+	(title_block
+		(title "DC Bias")
+		(date "2026-07-22")
+		(rev "A")
+		(company "Unversity of Wisconsin--Madison")
+	)
+	(lib_symbols)
+	(sheet
+		(at 127 38.1)
+		(size 25.4 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0989161f-d6b1-4f30-9ed6-66c58798253a")
+		(property "Sheetname" "non-inverting-amplifier"
+			(at 127 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "non-inverting-amplifier.kicad_sch"
+			(at 127 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dc-bias"
+				(path "/964edaf9-a802-406a-a721-43cc39556196"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
