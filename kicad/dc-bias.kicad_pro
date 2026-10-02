@@ -697,7 +697,7 @@
         "uuid": "964edaf9-a802-406a-a721-43cc39556196"
       }
     ],
-    "used_designators": "J1-2,A1,#PWR1-48,R1-32,U1-19",
+    "used_designators": "J1-4,D1-2,C1-2,A1,#PWR1-96,R1-64,U1-36",
     "variants": []
   },
   "sheets": [
@@ -706,8 +706,76 @@
       "Root"
     ],
     [
-      "66ae1587-3430-4b25-9223-a7cc42a95ccb",
-      "non-inverting-amplifier15"
+      "d354ffb7-2efe-4fb0-807d-d61012f67e9a",
+      "bias-group-1"
+    ],
+    [
+      "201eede2-1b58-4475-8fe2-148c298c0ccd",
+      "bias-group1"
+    ],
+    [
+      "34dafb45-c379-4cb6-955c-ce4a1136a536",
+      "non-inverting-amplifier-1"
+    ],
+    [
+      "34dafb45-c379-4cb6-955c-ce4a1136a536",
+      "non-inverting-amplifier-1"
+    ],
+    [
+      "b5fd700a-bf7f-4e1a-a875-db4e2c497d64",
+      "non-inverting-amplifier-2"
+    ],
+    [
+      "b5fd700a-bf7f-4e1a-a875-db4e2c497d64",
+      "non-inverting-amplifier-2"
+    ],
+    [
+      "7f4506e2-89be-4649-8724-4078b06814c3",
+      "non-inverting-amplifier-3"
+    ],
+    [
+      "7f4506e2-89be-4649-8724-4078b06814c3",
+      "non-inverting-amplifier-3"
+    ],
+    [
+      "306202e7-20aa-4a44-a9bf-263958d0df8b",
+      "non-inverting-amplifier-4"
+    ],
+    [
+      "306202e7-20aa-4a44-a9bf-263958d0df8b",
+      "non-inverting-amplifier-4"
+    ],
+    [
+      "0d69f087-0b99-4fba-becb-9f41d60795dc",
+      "non-inverting-amplifier-5"
+    ],
+    [
+      "0d69f087-0b99-4fba-becb-9f41d60795dc",
+      "non-inverting-amplifier-5"
+    ],
+    [
+      "ad47d386-767f-42b4-89f4-91cc6bd9f7b3",
+      "non-inverting-amplifier-6"
+    ],
+    [
+      "ad47d386-767f-42b4-89f4-91cc6bd9f7b3",
+      "non-inverting-amplifier-6"
+    ],
+    [
+      "f3716787-674c-4e83-b643-77bd915a16d0",
+      "non-inverting-amplifier-7"
+    ],
+    [
+      "f3716787-674c-4e83-b643-77bd915a16d0",
+      "non-inverting-amplifier-7"
+    ],
+    [
+      "6b3308a7-159c-47a4-a139-e710d10462da",
+      "non-inverting-amplifier-8"
+    ],
+    [
+      "6b3308a7-159c-47a4-a139-e710d10462da",
+      "non-inverting-amplifier-8"
     ]
   ],
   "text_variables": {},
